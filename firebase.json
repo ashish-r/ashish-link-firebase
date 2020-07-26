@@ -1,0 +1,68 @@
+{
+  "hosting": {
+    "public": "public",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "redirects": [
+      {
+        "regex": "/facebook/i",
+        "destination": "https://www.facebook.com/a5hi5hR",
+        "type": 301
+      },
+      {
+        "regex": "/fb/i",
+        "destination": "https://www.facebook.com/a5hi5hR",
+        "type": 301
+      },
+      {
+        "regex": "/git/i",
+        "destination": "https://github.com/ashish-r",
+        "type": 301
+      },
+      {
+        "regex": "/github/i",
+        "destination": "https://github.com/ashish-r",
+        "type": 301
+      },
+      {
+        "regex": "/linkedin/i",
+        "destination": "https://www.linkedin.com/in/code-ashish/",
+        "type": 301
+      },
+      {
+        "regex": "/insta/i",
+        "destination": "https://www.instagram.com/ashishr.ig/",
+        "type": 301
+      },
+      {
+        "regex": "/instagram/i",
+        "destination": "https://www.instagram.com/ashishr.ig/",
+        "type": 301
+      },
+      {
+        "regex": "/so/i",
+        "destination": "https://stackoverflow.com/users/7318037/ashish",
+        "type": 301
+      },
+      {
+        "regex": "/stackoverflow/i",
+        "destination": "https://stackoverflow.com/users/7318037/ashish",
+        "type": 301
+      },
+      {
+        "regex": "/twitter/i",
+        "destination": "https://twitter.com/code_ashish",
+        "type": 301
+      },
+      {
+        "regex": "/whatsapp/i",
+        "destination": "https://wa.me/918013904843?text=Hi",
+        "type": 301
+      },
+      {
+        "source": "**",
+        "destination": "https://stackoverflow.com/users/story/7318037",
+        "type": 301
+      }
+    ]
+  }
+}
