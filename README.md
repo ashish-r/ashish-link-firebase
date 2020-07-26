@@ -1,2 +1,2 @@
 # ashish-link-firebase
-Firebase hosting files for ashish.link
+Firebase hosting files for https://ashish.link
