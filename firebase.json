@@ -4,57 +4,57 @@
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "redirects": [
       {
-        "regex": "/facebook/i",
+        "regex": "/[fF][aA][cC][eE][bB][oO][oO][kK]/*",
         "destination": "https://www.facebook.com/a5hi5hR",
         "type": 301
       },
       {
-        "regex": "/fb/i",
+        "regex": "/[fF][bB]/*",
         "destination": "https://www.facebook.com/a5hi5hR",
         "type": 301
       },
       {
-        "regex": "/git/i",
+        "regex": "/[gG][iI][tT]/*",
         "destination": "https://github.com/ashish-r",
         "type": 301
       },
       {
-        "regex": "/github/i",
+        "regex": "/[gG][iI][tT][hH][uU][bB]/*",
         "destination": "https://github.com/ashish-r",
         "type": 301
       },
       {
-        "regex": "/linkedin/i",
+        "regex": "/[lL][iI][nN][kK][eE][dD][iI][nN]/*",
         "destination": "https://www.linkedin.com/in/code-ashish/",
         "type": 301
       },
       {
-        "regex": "/insta/i",
+        "regex": "/[iI][nN][sS][tT][aA]/*",
         "destination": "https://www.instagram.com/ashishr.ig/",
         "type": 301
       },
       {
-        "regex": "/instagram/i",
+        "regex": "/[iI][nN][sS][tT][aA][gG][rR][aA][mM]/*",
         "destination": "https://www.instagram.com/ashishr.ig/",
         "type": 301
       },
       {
-        "regex": "/so/i",
+        "regex": "/[sS][oO]/*",
         "destination": "https://stackoverflow.com/users/7318037/ashish",
         "type": 301
       },
       {
-        "regex": "/stackoverflow/i",
+        "regex": "/[sS][tT][aA][cC][kK][oO][vV][eE][rR][fF][lL][oO][wW]/*",
         "destination": "https://stackoverflow.com/users/7318037/ashish",
         "type": 301
       },
       {
-        "regex": "/twitter/i",
+        "regex": "/[tT][wW][iI][tT][tT][eE][rR]/*",
         "destination": "https://twitter.com/code_ashish",
         "type": 301
       },
       {
-        "regex": "/whatsapp/i",
+        "regex": "/[wW][hH][aA][tT][sS][aA][pP][pP]/*",
         "destination": "https://wa.me/918013904843?text=Hi",
         "type": 301
       },
