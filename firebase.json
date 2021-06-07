@@ -60,12 +60,12 @@
       },
       {
         "regex": "/cowin/i",
-        "destination": "https://wa.me/918013904843?text=Hi",
+        "destination": "https://drive.google.com/file/d/1fVfzPWq1UCIOtYW-ha7iw24ysoS8cHV8/view?usp=sharing",
         "type": 301
       },
       {
         "source": "**",
-        "destination": "https://drive.google.com/file/d/1fVfzPWq1UCIOtYW-ha7iw24ysoS8cHV8/view?usp=sharing",
+        "destination": "https://stackoverflow.com/users/story/7318037",
         "type": 301
       }
     ]
