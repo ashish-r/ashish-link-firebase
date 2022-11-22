@@ -50,7 +50,7 @@
       },
       {
         "regex": "/[tT][wW][iI][tT][tT][eE][rR]/*",
-        "destination": "https://twitter.com/code_ashish",
+        "destination": "https://twitter.com/ashish_link",
         "type": 301
       },
       {
@@ -65,7 +65,7 @@
       },
       {
         "source": "**",
-        "destination": "https://stackoverflow.com/users/story/7318037",
+        "destination": "https://bio.link/ashish_r",
         "type": 301
       }
     ]
